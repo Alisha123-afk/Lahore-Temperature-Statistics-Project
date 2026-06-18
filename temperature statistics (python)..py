@@ -3,9 +3,7 @@
 #   Predicting Summer Heat Using Statistics & Probability
 # ------------------------------------------------------------
 #   Student  : Alisha Sultan
-#   Reg No   : FA25-BMD-028
-#   Program  : BS Mathematics with Data Science
-#   Campus   : COMSATS University Islamabad, Sahiwal Campus
+#  Program  : BS Mathematics with Data Science
 #   Subject  : Introduction to Statistics & Probability
 # ============================================================
 
