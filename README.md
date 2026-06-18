@@ -104,9 +104,7 @@ Course: Introduction to Statistics & Probability
 ##  Author
 
 **Alisha Sultan**
-Registration No: FA25-BMD-028
-BS Mathematics with Data Science — 2nd Semester
-COMSATS University Islamabad, Sahiwal Campus
+
 
 ---
 
