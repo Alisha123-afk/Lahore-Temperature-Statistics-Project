@@ -1,10 +1,10 @@
-# 🌡️ Statistical Analysis of Temperature Patterns in Lahore
+#  Statistical Analysis of Temperature Patterns in Lahore
 
 ### Predicting Summer Heat Risk Using Statistics & Probability
 
 ---
 
-## 📌 The Scenario
+##  The Scenario
 
 Every summer, Lahore faces extreme heat — but how hot is it really, and what is the **probability** of a dangerous heat day on any given date in June?
 
@@ -12,7 +12,7 @@ This project applies core concepts from **Introductory Statistics (Neil A. Weiss
 
 ---
 
-## 🎯 The Problem
+##  The Problem
 
 > *"If I step outside tomorrow in June, what is the probability it will be dangerously hot in Lahore?"*
 
@@ -20,7 +20,7 @@ This is a genuine everyday-life problem — affecting decisions about going outd
 
 ---
 
-## 🧮 Statistical Concepts Applied
+##  Statistical Concepts Applied
 
 | Concept | Chapter | Used For |
 |---|---|---|
@@ -37,7 +37,7 @@ This is a genuine everyday-life problem — affecting decisions about going outd
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 | Metric | Value |
 |---|---|
@@ -54,7 +54,7 @@ This is a genuine everyday-life problem — affecting decisions about going outd
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 This project generates **6 charts**:
 1. Daily Temperature Trend (Line Graph)
@@ -66,7 +66,7 @@ This project generates **6 charts**:
 
 ---
 
-## 💻 How to Run
+##  How to Run
 
 ```bash
 pip install numpy matplotlib scipy
@@ -77,7 +77,7 @@ The script prints a full statistical breakdown to the terminal and saves all 6 g
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 - Lahore's June temperatures are consistent and predictable (low CV = 5.69%)
 - There is a **72.83% probability** any given June day exceeds 40°C
@@ -87,21 +87,21 @@ The script prints a full statistical breakdown to the terminal and saves all 6 g
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Python** — NumPy, SciPy, Matplotlib
 - **Statistical Concepts** — Weiss, *Introductory Statistics* (Chapters 2, 3, 5, 8)
 
 ---
 
-## 🙏 Acknowledgement
+##  Acknowledgement
 
 **Thank You Sir: Fakhar Mustafa**
 Course: Introduction to Statistics & Probability
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Alisha Sultan**
 Registration No: FA25-BMD-028
